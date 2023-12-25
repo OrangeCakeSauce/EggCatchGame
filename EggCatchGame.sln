@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EggCatchGame", "EggCatchGame\EggCatchGame.csproj", "{9820D15A-3D16-42AE-AE08-F410515847D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9820D15A-3D16-42AE-AE08-F410515847D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9820D15A-3D16-42AE-AE08-F410515847D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9820D15A-3D16-42AE-AE08-F410515847D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9820D15A-3D16-42AE-AE08-F410515847D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0236FA41-03FF-4A85-9835-084581D211D9}
+	EndGlobalSection
+EndGlobal
